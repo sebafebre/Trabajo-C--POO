@@ -1,0 +1,219 @@
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Trabajo Practico\bin\Debug\Trabajo Practico.exe.config
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Trabajo Practico\bin\Debug\Trabajo Practico.exe
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Trabajo Practico\bin\Debug\Trabajo Practico.pdb
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.AssemblyReference.cache
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Trabajo Practico\obj\Debug\Form1.Form1.resources
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Trabajo Practico\obj\Debug\Trabajo_Practico.Properties.Resources.resources
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.GenerateResource.cache
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.CoreCompileInputs.cache
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Trabajo Practico\obj\Debug\Trabajo Practico.exe
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Trabajo Practico\obj\Debug\Trabajo Practico.pdb
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Trabajo Practico\obj\Debug\Form1.Form2.resources
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.exe.config
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.exe
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.pdb
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.AssemblyReference.cache
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Properties.Resources.resources
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.GenerateResource.cache
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.CoreCompileInputs.cache
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.exe
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.pdb
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.AssemblyReference.cache
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Sign_In.resources
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Properties.Resources.resources
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Sign_Up.resources
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.GenerateResource.cache
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.CoreCompileInputs.cache
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.exe
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.pdb
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.exe.config
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.exe
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.pdb
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Administrador_de_Usuarios.resources
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Store.resources
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Administrador_de_Usuarios.resources
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Store.resources
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.exe.config
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.exe
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.pdb
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.AssemblyReference.cache
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Administrador_de_Usuarios.resources
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Properties.Resources.resources
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Store.resources
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.GenerateResource.cache
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.CoreCompileInputs.cache
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.exe
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.pdb
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Log_In.resources
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Register.resources
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\RestSharp.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Buffers.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.CodeDom.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Data.Odbc.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Data.OleDb.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Drawing.Common.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.IO.Packaging.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.IO.Ports.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Memory.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.Permissions.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.Fody.CopyLocal.cache
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.CopyComplete
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormMicroprocesador.resources
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormAlmacenamiento.resources
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormFuente.resources
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormGabinete.resources
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormInicio.resources
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormMemoriaRAM.resources
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormMotherboard.resources
+C:\Users\ramir\Desktop\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormPlacaDeVideo.resources
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.exe.config
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.exe
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.pdb
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\Newtonsoft.Json.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\RestSharp.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Buffers.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.CodeDom.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Data.Odbc.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Data.OleDb.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Data.SqlClient.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Drawing.Common.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.IO.Packaging.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.IO.Ports.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Memory.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Numerics.Vectors.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.AccessControl.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.Permissions.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.Principal.Windows.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Threading.AccessControl.xml
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.AssemblyReference.cache
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.SuggestedBindingRedirects.cache
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Administrador_de_Usuarios.resources
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormAlmacenamiento.resources
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormFuente.resources
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormGabinete.resources
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormInicio.resources
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormMemoriaRAM.resources
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormMicroprocesador.resources
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormMotherboard.resources
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormPlacaDeVideo.resources
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Log_In.resources
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Properties.Resources.resources
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Register.resources
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Store.resources
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.GenerateResource.cache
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.CoreCompileInputs.cache
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.Fody.CopyLocal.cache
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.CopyComplete
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.exe
+D:\Juegos y Apps\Escritorio\Programacin\C#\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.pdb
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\RestSharp.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Buffers.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.CodeDom.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Data.Odbc.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Data.OleDb.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Drawing.Common.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.IO.Packaging.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.IO.Ports.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Memory.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.Permissions.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormAlmacenamiento.resources
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormFuente.resources
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormGabinete.resources
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormInicio.resources
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormMemoriaRAM.resources
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormMicroprocesador.resources
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormMotherboard.resources
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormPlacaDeVideo.resources
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Log_In.resources
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Register.resources
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.Fody.CopyLocal.cache
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.CopyComplete
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormAlmacenamiento.resources
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormFuente.resources
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormGabinete.resources
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormInicio.resources
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormMemoriaRAM.resources
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormMicroprocesador.resources
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormMotherboard.resources
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormPlacaDeVideo.resources
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Log_In.resources
+C:\Users\ramir\Personal\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo_Practico.Register.resources
+C:\Users\sebaf\Desktop\Trabajo-Final-m\Trabajo-Final-master\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.AssemblyReference.cache
+C:\Users\sebaf\Desktop\Trabajo-Final-m\Trabajo-Final-master\Trabajo Practico\obj\Debug\Trabajo_Practico.Administrador_de_Usuarios.resources
+C:\Users\sebaf\Desktop\Trabajo-Final-m\Trabajo-Final-master\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormAlmacenamiento.resources
+C:\Users\sebaf\Desktop\Trabajo-Final-m\Trabajo-Final-master\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormFuente.resources
+C:\Users\sebaf\Desktop\Trabajo-Final-m\Trabajo-Final-master\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormGabinete.resources
+C:\Users\sebaf\Desktop\Trabajo-Final-m\Trabajo-Final-master\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormInicio.resources
+C:\Users\sebaf\Desktop\Trabajo-Final-m\Trabajo-Final-master\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormMemoriaRAM.resources
+C:\Users\sebaf\Desktop\Trabajo-Final-m\Trabajo-Final-master\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormMicroprocesador.resources
+C:\Users\sebaf\Desktop\Trabajo-Final-m\Trabajo-Final-master\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormMotherboard.resources
+C:\Users\sebaf\Desktop\Trabajo-Final-m\Trabajo-Final-master\Trabajo Practico\obj\Debug\Trabajo_Practico.Forms.FormPlacaDeVideo.resources
+C:\Users\sebaf\Desktop\Trabajo-Final-m\Trabajo-Final-master\Trabajo Practico\obj\Debug\Trabajo_Practico.Log_In.resources
+C:\Users\sebaf\Desktop\Trabajo-Final-m\Trabajo-Final-master\Trabajo Practico\obj\Debug\Trabajo_Practico.Properties.Resources.resources
+C:\Users\sebaf\Desktop\Trabajo-Final-m\Trabajo-Final-master\Trabajo Practico\obj\Debug\Trabajo_Practico.Register.resources
+C:\Users\sebaf\Desktop\Trabajo-Final-m\Trabajo-Final-master\Trabajo Practico\obj\Debug\Trabajo_Practico.Store.resources
+C:\Users\sebaf\Desktop\Trabajo-Final-m\Trabajo-Final-master\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.GenerateResource.cache
+C:\Users\sebaf\Desktop\Trabajo-Final-m\Trabajo-Final-master\Trabajo Practico\obj\Debug\Trabajo Practico.csproj.CoreCompileInputs.cache
+C:\Users\sebaf\Desktop\Trabajo-Final-m\Trabajo-Final-master\Trabajo Practico\obj\Debug\Trabajo Practico.exe
+C:\Users\sebaf\Desktop\Trabajo-Final-m\Trabajo-Final-master\Trabajo Practico\obj\Debug\Trabajo Practico.pdb

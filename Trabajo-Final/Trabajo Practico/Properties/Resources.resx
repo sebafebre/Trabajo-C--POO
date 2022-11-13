@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="1000-51-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1000-51-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CP-9020188-NA-Gallery-RMx-White-850-01-300x300" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CP-9020188-NA-Gallery-RMx-White-850-01-300x300.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Z690-AORUS-ULTRA-02-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Z690-AORUS-ULTRA-02-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="png-transparent-computer-icons-share-icon-icon-design-cafe-shop-cdr-text-retail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\png-transparent-computer-icons-share-icon-icon-design-cafe-shop-cdr-text-retail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2x16tuf-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2x16tuf-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="6700XTEAGLE2-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6700XTEAGLE2-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="6600DUAL2-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6600DUAL2-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RYZEN5G1-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RYZEN5G1-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="E6CGy3GXoAcMJfZ1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\E6CGy3GXoAcMJfZ1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CMK16GX4M2B3000C15-Gallery-VENG-LPX-BLK-02-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CMK16GX4M2B3000C15-Gallery-VENG-LPX-BLK-02-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1530198259_st8000vn0022_01-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1530198259_st8000vn0022_01-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MP600500-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MP600500-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CORSAIRPLATINUM1-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CORSAIRPLATINUM1-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="E6CGy3GXoAcMJfZ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\E6CGy3GXoAcMJfZ.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wd-wd161kryz-16tb-3.5-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wd-wd161kryz-16tb-3.5-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="4288-gigabyte-gp-ap1200pm-1200w-80-plus-platinum-full-modular-especificaciones-300x300" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4288-gigabyte-gp-ap1200pm-1200w-80-plus-platinum-full-modular-especificaciones-300x300.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lock-2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lock-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="intel-core-i9-12900k-52-ghz-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\intel-core-i9-12900k-52-ghz-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CMH16GX4M2E3200C16b-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CMH16GX4M2E3200C16b-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="01-1-300x300" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\01-1-300x300.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Z690PLUSWIFID4C-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Z690PLUSWIFID4C-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="03-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\03-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="900xrcm9jcshanxa_setting_fff_1_90_end_1000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\900xrcm9jcshanxa_setting_fff_1_90_end_1000.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="109466-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\109466-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="450_1000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\450_1000.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="191-intel-core-i7-12700k-50-ghz-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\191-intel-core-i7-12700k-50-ghz-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="869_gallery_01-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\869_gallery_01-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="intel_bx8071512600k_core_i5_12600k_8_core_lga-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\intel_bx8071512600k_core_i5_12600k_8_core_lga-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CT1000P5PSSD8-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CT1000P5PSSD8-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BL16G32C16U4BL" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BL16G32C16U4BL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="12100F-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\12100F-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CC-9011226-WW-Gallery-7000X-RGB-BLACK-01-300x300" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CC-9011226-WW-Gallery-7000X-RGB-BLACK-01-300x300.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1-1-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1-1-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sed-18-512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sed-18-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="g7400-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\g7400-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GB-N2060D6-6GD2-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GB-N2060D6-6GD2-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="B550I-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\B550I-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vision-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vision-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Z690-A1700b-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Z690-A1700b-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="amd_100_100000061wof_ryzen_9_5900x_3_7_1598373-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\amd_100_100000061wof_ryzen_9_5900x_3_7_1598373-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CP-9020139-NA-Gallery-gallery-HX1000-02-300x300" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CP-9020139-NA-Gallery-gallery-HX1000-02-300x300.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="G6900-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\G6900-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1-500x500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1-500x500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eclipse_P200A_DRGB_01-300x300" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eclipse_P200A_DRGB_01-300x300.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
